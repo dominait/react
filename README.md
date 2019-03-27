@@ -2,9 +2,9 @@ This project uses [Create React App](https://github.com/facebook/create-react-ap
 
 ## use
 Download the kit and open it in your code editor. Run npm install to install the dependancies:
--  .
-- npm test
-- npm run build (production build)
+- styled components
+- prop types
+- react react-dom
 
 ## npm scripts
 In the project directory, you can run:
