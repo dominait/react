@@ -1,12 +1,13 @@
-This project uses [Create React App](https://github.com/facebook/create-react-app).
+# reactkit
+reactkit is just a stripped down version of the [Create React App](https://github.com/facebook/create-react-app). Some of the create-react-app content has been removed to give a simple starting point for beginners to build using react.
 
-## use
-Download the kit and open it in your code editor. Run npm install to install the dependancies:
+## how to use
+Once you have downloaded the reactki run npm install this will install the dependancies listed in the package.json file. The only thing that has been added are:
 - styled components
 - prop types
-- react react-dom
 
-## npm scripts
+
+## npm
 In the project directory, you can run:
 - npm start runs development copy from [http://localhost:3000](http://localhost:3000).
 - npm test
