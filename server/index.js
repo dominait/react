@@ -1,3 +1,7 @@
+/* 
+Note required but starter for any node.js
+required for project.
+*/
 const express = require('express')
 const cors = require('cors')
  
