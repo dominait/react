@@ -7,7 +7,8 @@ class App extends Component {
  
     return (
       <div className="app">
-           <h2>React-0-Matic</h2>           
+           <h2>React</h2>   
+           <p>built with create-react-app</p>        
       </div>
     );
   }
